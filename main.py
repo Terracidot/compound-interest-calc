@@ -6,6 +6,7 @@ def cic2():
     r = float(input("What is the interest rate in percentage?:"))
     n = int(input("How many times is the interest compounded each year?:"))
     t = int(input("How many years will you be investing for?:"))
+    
     part0 = p * (1 + (r/100)/n) ** (n * t)
     part1 = ((1 + (r/100)/n) ** (n * t)) - 1
     part2 = (r/100) / n
