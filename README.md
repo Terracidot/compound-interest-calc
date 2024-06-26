@@ -1,2 +1,2 @@
-# compound-interest-calc
-Small function designed to calculate compound interest 
+# Compound interest calculator with lump sum input option
+### My very first program! Self explanitory.
